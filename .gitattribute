@@ -1,0 +1,7 @@
+*.rs     text eol=lf
+*.toml   text eol=lf
+*.md     text eol=lf
+
+*.rs     diff=rust
+
+/target   export-ignore
